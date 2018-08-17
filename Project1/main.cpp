@@ -16,9 +16,5 @@ int main() {
 		i++;
 	}
 	
-
-
-
-	/*cout << "Hello" << endl;*/
 	return 0;
 }
